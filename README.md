@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...Android Development
-- 🌱 I’m currently learning ...Aws
+- 🌱 I’m currently learning ...GCP
 - 👯 I’m looking to collaborate on ...Android Projects
 
 
