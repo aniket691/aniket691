@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Google cloud platform and kotlin**
 
-- 👯 I’m looking to collaborate on [Android Projects](https://github.com/aniket691/InstaDownloader.git)
-
-- 🤝 I’m looking for help with [Insgram Downloader](https://github.com/aniket691/InstaDownloader.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/aniket691?tab=repositories](https://github.com/aniket691?tab=repositories)
 
 - 📝 I regularly write articles on [https://github.com/aniket691/GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
