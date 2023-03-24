@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket691" alt="aniket691" /></a> </p>
 
-- 🔭 I’m currently working on [Vb Solutions](https://github.com/aniket691/vb.git)
+- 🔭 I’m currently working on [Resume Parser]([https://github.com/aniket691/vb.git](https://github.com/aniket691/resume_parser.git))
 
-- 🌱 I’m currently learning **Google cloud platform and kotlin**
+- 🌱 I’m currently learning **Spring boot and rest API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniket691?tab=repositories](https://github.com/aniket691?tab=repositories)
 
 - 📝 I regularly write articles on [https://github.com/aniket691/GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
 
-- 💬 Ask me about **java, android, GCP, linux**
+- 💬 Ask me about **java, android,spring boot**
 
 - 📫 How to reach me **aniketdalal126@gmail.com**
 
