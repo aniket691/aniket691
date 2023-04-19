@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [https://github.com/aniket691/resume_parser.git](https://github.com/aniket691/resume_parser.git)
 
-- 🌱 I’m currently learning **Spring boot and rest API**
-
 - 👨‍💻 All of my projects are available at [https://github.com/aniket691?tab=repositories](https://github.com/aniket691?tab=repositories)
 
 - 📝 I regularly write articles on [https://github.com/aniket691/GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
