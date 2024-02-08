@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket691" alt="aniket691" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/aniket691/resume_parser.git](https://github.com/aniket691/resume_parser.git)
+- 🔭 I’m currently working on [[https://github.com/aniket691/resume_parser.git](https://github.com/aniket691/resume_parser.git](https://github.com/aniket691/trading_app.git))
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniket691?tab=repositories](https://github.com/aniket691?tab=repositories)
 
