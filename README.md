@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket691" alt="aniket691" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/aniket691/resume_parser.git](https://github.com/aniket691/resume_parser.git)](https://github.com/aniket691/resume_parser.git](https://github.com/aniket691/trading_app.git))
+- 🔭 I’m currently working on [https://github.com/aniket691/resume_parser.git](https://github.com/aniket691/trading_app.git))
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniket691?tab=repositories](https://github.com/aniket691?tab=repositories)
 
 - 📝 I regularly write articles on [https://github.com/aniket691/GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
 
-- 💬 Ask me about **java, android,spring boot**
+- 💬 Ask me about **JAVA, ANDROID, SPRING BOOT**
 
 - 📫 How to reach me **aniketdalal126@gmail.com**
 
-- ⚡ Fun fact **Whenever I think I know the technology, New features tells me the reality !!!**
+- ⚡ Fun fact **Whenever I think I know the technology, New features tell me the reality !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
