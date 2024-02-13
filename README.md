@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Trading App](https://github.com/aniket691/trading_app.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/aniket691?tab=repositories](https://github.com/aniket691?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/aniket691?tab=repositories)
 
 - 📝 I regularly write articles on [https://github.com/aniket691/GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
 
