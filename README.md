@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/aniket691?tab=repositories)
 
-- 📝 I regularly write articles on [https://github.com/aniket691/GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
+- 📝 I regularly write articles on [GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
 
 - 💬 Ask me about **JAVA, ANDROID, SPRING BOOT, SWIFT**
 
