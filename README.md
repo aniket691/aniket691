@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
 
-- 💬 Ask me about **JAVA, ANDROID, SPRING BOOT, SWIFT**
+- 💬 Ask me about **JAVA**, **.NET**, **C#**, **ASP.NET**, **SPRING BOOT**, **React**, **Node.js**, **JavaScript**, **Full-Stack Development**, **RESTful APIs**, **SQL/NoSQL Databases**, **JWT Authentication**, **Microservices**, **Docker**, **DevOps**, **UI/UX Design**, **MVC Architecture**
 
 - 📫 How to reach me **aniketdalal126@gmail.com**
 
@@ -25,6 +25,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt=".net" width="40" height="40"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
+
+<h3 align="left">GitHub Keywords:</h3>
+<p align="left">react, node.js, javascript, java, .net, asp.net, spring-boot, full-stack, portfolio, job-portal, github-profile, geeks-for-geeks, leetcode, microservices, JWT, Docker, SQL, NoSQL, RESTful APIs</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&show_icons=true&locale=en&layout=compact" alt="aniket691" /></p>
