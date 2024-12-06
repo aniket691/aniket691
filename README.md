@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **J
 
 - 🔭 I’m currently working on [Job Portal](https://github.com/aniket691/job_portal.git)
 - 🌱 I’m constantly learning new technologies and improving my skills
-- 💬 Ask me about **Java**, **.NET**, **React**, **Spring Boot**, **Node.js**, **C#**, **JWT Authentication**, **Microservices**, **Docker**, and **API Design**
+- 💬 Ask me about **Java**, **.NET**, **React**, **Spring Boot**, **Node.js**, **C#**, **JWT Authentication**, **Microservices**, **Docker**, **API Design**, **Entity Framework**, **ASP.NET**, and **SignalR**.
 - 📫 Reach me at: **aniketdalal126@gmail.com**
 - ⚡ Fun fact: **Technology evolves fast, and I love keeping up with it!**
 
@@ -31,6 +31,10 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **J
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="aspnet" width="40" height="40"/></a>
+  <a href="https://www.entityframeworktutorial.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Entity_Framework_Logo.svg/200px-Entity_Framework_Logo.svg.png" alt="entity-framework" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/SignalR_Logo.png" alt="signalr" width="40" height="40"/></a>
 </p>
 
 ---
@@ -64,6 +68,7 @@ Here are a few of my projects:
 1. [**Job Portal**](https://github.com/aniket691/job_portal.git) - A platform for recruiters and job seekers.
 2. [**Movie Review System**](https://github.com/aniket691/movie-review-system) - A system to manage movie reviews.
 3. [**E-commerce App**](https://github.com/aniket691/e-commerce-app) - Full-stack e-commerce web application.
+4. [**Real-Time Chat App**](https://github.com/aniket691/real-time-chat-app) - A real-time chat application using **SignalR** and **ASP.NET Core**.
 
 ---
 
@@ -74,14 +79,15 @@ Here are a few of my projects:
 - 💬 Commented on [#123](https://github.com/aniket691/awesome-project/pull/123) in [Awesome Project](https://github.com/aniket691/awesome-project)
 - 🔧 Made a pull request to fix the issue in [Job Portal](https://github.com/aniket691/job_portal)
 - 🛠️ Contributed to [Spring Boot Repository](https://github.com/spring-projects/spring-boot)
-  
+- 🎉 Opened a **SignalR**-based real-time chat feature for **ASP.NET Core** in [ChatApp Repo](https://github.com/aniket691/real-time-chat-app)
+
 ---
 
 ## 🎯 Roadmap
 
-- 🔧 **Learning**: Enhance knowledge in **DevOps**, **Cloud Platforms**, and **Microservices Architecture**
-- 🚀 **Future Projects**: Building **Distributed Systems** and **Scalable Web Applications**
-- 💬 **Open Source Contributions**: Contribute to more **Spring Boot** and **React** projects
+- 🔧 **Learning**: Enhance knowledge in **DevOps**, **Cloud Platforms**, **Microservices Architecture**, and **SignalR**.
+- 🚀 **Future Projects**: Building **Distributed Systems**, **Real-time Communication Platforms**, and **Scalable Web Applications**
+- 💬 **Open Source Contributions**: Contribute to more **Spring Boot**, **ASP.NET Core**, **SignalR**, and **React** projects.
 
 ---
 
