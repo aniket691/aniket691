@@ -69,17 +69,6 @@ Here are a few of my projects:
 
 ---
 
-## 📊 Contributions
-
-### Recent Activity
-
-- 💬 Commented on [#123](https://github.com/aniket691/awesome-project/pull/123) in [Awesome Project](https://github.com/aniket691/awesome-project)
-- 🔧 Made a pull request to fix the issue in [Job Portal](https://github.com/aniket691/job_portal)
-- 🛠️ Contributed to [Spring Boot Repository](https://github.com/spring-projects/spring-boot)
-- 🎉 Opened a **SignalR**-based real-time chat feature for **ASP.NET Core** in [ChatApp Repo](https://github.com/aniket691/real-time-chat-app)
-
----
-
 ## 🎯 Roadmap
 
 - 🔧 **Learning**: Enhance knowledge in **DevOps**, **Cloud Platforms**, **Microservices Architecture**, and **SignalR**.
