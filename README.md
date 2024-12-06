@@ -1,30 +1,98 @@
-<h1 align="center">Hi 👋, I'm Aniket Dalal</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi 👋, I'm Aniket Dalal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket691&label=Profile%20views&color=0e75b6&style=flat" alt="aniket691" /> </p>
+## A Passionate Full-Stack Developer from India 🇮🇳
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket691" alt="aniket691" /></a> </p>
+Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **Java**, **.NET**, **Spring Boot**, **React**, **Node.js**, and much more. I am passionate about building scalable web applications and creating meaningful software solutions.
 
-- 🔭 I’m currently working on [Job Portal](https://github.com/aniket691/job_portal.git)
-
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/aniket691?tab=repositories)
-
-- 📝 I regularly write articles on [GfgContributedArticles](https://github.com/aniket691/GfgContributedArticles)
-
-- 💬 Ask me about **JAVA, ANDROID, SPRING BOOT, SWIFT**
-
-- 📫 How to reach me **aniketdalal126@gmail.com**
-
-- ⚡ Fun fact **Whenever I think I know the technology, New features tell me the reality !!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniket-dalal-b54b9018a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-dalal-b54b9018a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniketdalal126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketdalal126" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aniketdalal126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketdalal126" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniket691&label=Profile%20views&color=0e75b6&style=flat" alt="aniket691" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> </a> </p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&show_icons=true&locale=en&layout=compact" alt="aniket691" /></p> add in this
+- 🔭 I’m currently working on [Job Portal](https://github.com/aniket691/job_portal.git)
+- 🌱 I’m constantly learning new technologies and improving my skills
+- 💬 Ask me about **Java**, **.NET**, **React**, **Spring Boot**, **Node.js**, **C#**, **JWT Authentication**, **Microservices**, **Docker**, and **API Design**
+- 📫 Reach me at: **aniketdalal126@gmail.com**
+- ⚡ Fun fact: **Technology evolves fast, and I love keeping up with it!**
+
+## 📚 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/aniket-dalal-b54b9018a)
+- [LeetCode](https://www.leetcode.com/aniketdalal126)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aniketdalal126)
+
+## 🚀 Technologies & Tools
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+### My GitHub Stats 📈
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket691&show_icons=true&theme=radical&hide=prs&count_private=true" alt="aniket691's GitHub Stats" />
+</p>
+
+### Top Languages 📝
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&show_icons=true&locale=en&layout=compact&langs_count=6" alt="aniket691's top languages" />
+</p>
+
+### GitHub Streak 🔥
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket691&theme=radical" alt="aniket691's GitHub Streak" />
+</p>
+
+---
+
+## 💡 Projects
+
+Here are a few of my projects:
+
+1. [**Job Portal**](https://github.com/aniket691/job_portal.git) - A platform for recruiters and job seekers.
+2. [**Movie Review System**](https://github.com/aniket691/movie-review-system) - A system to manage movie reviews.
+3. [**E-commerce App**](https://github.com/aniket691/e-commerce-app) - Full-stack e-commerce web application.
+
+---
+
+## 📊 Contributions
+
+### Recent Activity
+
+- 💬 Commented on [#123](https://github.com/aniket691/awesome-project/pull/123) in [Awesome Project](https://github.com/aniket691/awesome-project)
+- 🔧 Made a pull request to fix the issue in [Job Portal](https://github.com/aniket691/job_portal)
+- 🛠️ Contributed to [Spring Boot Repository](https://github.com/spring-projects/spring-boot)
+  
+---
+
+## 🎯 Roadmap
+
+- 🔧 **Learning**: Enhance knowledge in **DevOps**, **Cloud Platforms**, and **Microservices Architecture**
+- 🚀 **Future Projects**: Building **Distributed Systems** and **Scalable Web Applications**
+- 💬 **Open Source Contributions**: Contribute to more **Spring Boot** and **React** projects
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aniket691&theme=github" alt="Aniket Dalal's Contribution Graph"/>
+</p>
+
+---
+
+### Fun Fact 🤩
+
+**I love solving problems and building software that can make a real difference in people's lives.**
