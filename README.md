@@ -32,9 +32,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **J
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="aspnet" width="40" height="40"/></a>
-  <a href="https://www.entityframeworktutorial.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Entity_Framework_Logo.svg/200px-Entity_Framework_Logo.svg.png" alt="entity-framework" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/SignalR_Logo.png" alt="signalr" width="40" height="40"/></a>
 </p>
 
 ---
