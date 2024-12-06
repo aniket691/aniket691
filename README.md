@@ -85,14 +85,6 @@ Here are a few of my projects:
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aniket691&theme=github" alt="Aniket Dalal's Contribution Graph"/>
-</p>
-
----
-
 ### Fun Fact 🤩
 
 **I love solving problems and building software that can make a real difference in people's lives.**
