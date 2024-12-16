@@ -50,12 +50,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **J
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&show_icons=true&locale=en&layout=compact&langs_count=6" alt="aniket691's top languages" />
 </p>
 
-### GitHub Streak 🔥
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket691&theme=radical" alt="aniket691's GitHub Streak" />
-</p>
-
 ---
 
 ## 💡 Projects
