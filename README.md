@@ -56,8 +56,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **J
 
 Here are a few of my projects:
 
-1. [**Job Portal**](https://github.com/aniket691/job_portal.git) - A platform for recruiters and job seekers.
-2. [**Clinifie**](https://github.com/aniket691/clinifie.git) - A Car wash service provider app.
+1. [**Clinifie**](https://github.com/aniket691/clinifie.git) - A Car wash service provider app.
+2. [**Job Portal**](https://github.com/aniket691/job_portal.git) - A platform for recruiters and job seekers.
 
 ---
 
