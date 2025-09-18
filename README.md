@@ -58,7 +58,6 @@ Here are a few of my projects:
 
 1. [**Clinifie**](https://github.com/aniket691/clinifie.git) - A Car wash service provider app.
 2. [**Maze Dakhle**](https://github.com/aniket691/vmf.git) - Get your Goverment issued documents at your fingertips.
-3. [**Bobs Audit**](https://github.com/aniket691/bobs_audit_frontend.git) - A comprehensive audit managment platform.
 4. [**Job Portal**](https://github.com/aniket691/job_portal.git) - A platform for recruiters and job seekers.
 
 ---
