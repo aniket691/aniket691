@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **J
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on [Job Portal](https://github.com/aniket691/job_portal.git)
+- 🔭 I’m currently working on [Job Portal](https://github.com/aniket691/job_portal_frontend.git)
 - 🌱 I’m constantly learning new technologies and improving my skills
 - 💬 Ask me about **Java**, **.NET**, **React**, **Spring Boot**, **Node.js**, **C#**, **JWT Authentication**, **Microservices**, **Docker**, **API Design**, **Entity Framework**, **ASP.NET**, and **SignalR**.
 - 📫 Reach me at: **aniketdalal126@gmail.com**
