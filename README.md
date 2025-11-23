@@ -60,7 +60,7 @@ Here are a few of my projects:
 
 1. [**Clinifie**](https://github.com/aniket691/clinifie.git) - A Car wash service provider app.
 3. [**Job Portal**](https://github.com/aniket691/job_portal.git) - A platform for recruiters and job seekers.
-4. [**Chatgpt**](https://github.com/aniket691/chatgpt.git) - An llm backend
+4. [**LLM**](https://github.com/aniket691/rag.git) - An llm backend
 
 ---
 
