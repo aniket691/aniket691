@@ -9,7 +9,8 @@
 </div>
 
 ---
-<a href="https://v0-retro-hacker-portfolio-ruddy.vercel.app/">CLICK HERE</a> to visit # profile website 
+<a href="https://v0-retro-hacker-portfolio-ruddy.vercel.app/">CLICK HERE</a> to visit PROFILE WEBSITE 
+<br/>
 ---
 
 # 🟣 About Me
