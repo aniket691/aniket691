@@ -1,97 +1,120 @@
-# Hi 👋, I'm Aniket Dalal
+<div align="center">
 
-## A Passionate Full-Stack Developer from India 🇮🇳
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   ▄▀█ █▄ █ █ █▄▀ █▀▀ ▀█▀   █▀▄ ▄▀█ █   ▄▀█ █           ║
+║   █▀█ █ ▀█ █ █ █ ██▄  █    █▄▀ █▀█ █▄▄ █▀█ █▄▄         ║
+║                                                           ║
+║            Full-Stack Developer  ·  Pune, IN 🇮🇳          ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-## [**PROFILE WEBSITE**](https://v0-retro-hacker-portfolio-ruddy.vercel.app/) 
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-00e896?style=flat-square&labelColor=0a0e0d)](https://github.com/aniket691)
+[![Location](https://img.shields.io/badge/LOCATION-PUNE_IN-00b874?style=flat-square&labelColor=0a0e0d)](https://github.com/aniket691)
+[![Profile Views](https://komarev.com/ghpvc/?username=aniket691&label=PROFILE+VIEWS&color=00e896&style=flat-square&labelColor=0a0e0d)](https://github.com/aniket691)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00e896?style=flat-square&labelColor=0a0e0d)](https://v0-retro-hacker-portfolio-ruddy.vercel.app/)
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **Java**, **.NET**, **Spring Boot**, **React**, **Node.js**, and much more. I am passionate about building scalable web applications and creating meaningful software solutions.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniket691&label=Profile%20views&color=0e75b6&style=flat" alt="aniket691" />
-</p>
-
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on [Job Portal](https://github.com/aniket691/job_portal_frontend.git)
-- 🌱 I’m constantly learning new technologies and improving my skills
-- 💬 Ask me about **Java**, **.NET**, **React**, **Spring Boot**, **Node.js**, **C#**, **JWT Authentication**, **Microservices**, **Docker**, **API Design**, **Entity Framework**, **ASP.NET**, and **SignalR**.
-- 📫 Reach me at: **aniketdalal126@gmail.com**
-- ⚡ Fun fact: **Technology evolves fast, and I love keeping up with it!**
-
-## 📚 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/aniket-dalal-b54b9018a)
-- [LeetCode](https://www.leetcode.com/aniketdalal126)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aniketdalal126)
-
-## 🚀 Technologies & Tools
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-</p>
+</div>
 
 ---
 
-# 📟 Terminal: aniket691
+## `$ whoami`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=flat-square&logo=terminal&logoColor=00ffff&labelColor=black" alt="Status Online">
-  <img src="https://img.shields.io/badge/LOCATION-PUNE_IN-00ffff?style=flat-square&labelColor=black" alt="Location">
-</p>
+Passionate **Full-Stack Developer** building scalable web applications across Java, .NET, Spring Boot, React, and Node.js. I love keeping up with fast-moving tech — and turning ideas into software that makes a real difference.
 
----
-
-### 🖥️ System Analysis
-
-<p align="center">
-  <a href="https://github.com/aniket691">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket691&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aniket's GitHub Stats" />
-  </a>
-  
-  <br/><br/>
-
-  <a href="https://github.com/aniket691">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
-  </a>
-</p>
+- 🔭 Currently building &nbsp;**[Job Portal](https://github.com/aniket691/job_portal_frontend)** — connecting recruiters & job seekers
+- 🌱 Exploring &nbsp;**DevOps · Cloud Platforms · Microservices · SignalR**
+- 💬 Ask me about &nbsp;`Java` `Spring Boot` `.NET` `React` `JWT` `Docker` `Microservices`
+- 📫 Reach me at &nbsp;**aniketdalal126@gmail.com**
+- ⚡ Fun fact &nbsp;**Technology evolves fast, and I love keeping up with it!**
 
 ---
 
-### 🛠️ Tech Stack & Kernel Modules
+## `$ tech.stack --list`
 
-```sql
-> LOADING_SKILLS...
-[████████████████████] 100%
+**Languages**
 
-- Languages: Python, TypeScript, Java
-- Frameworks: LangChain, React, FastAPI
-- Tools: Docker, Git, n8n, Odoo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
 ---
 
-## 💡 Projects
+## `$ projects.ls`
 
-Here are a few of my projects:
-
-1. [**Clinifie**](https://github.com/aniket691/clinifie.git) - A Car wash service provider app.
-3. [**Job Portal**](https://github.com/aniket691/job_portal_frontend.git) - A platform for recruiters and job seekers.
-4. [**LLM**](https://github.com/aniketdalalml-creator/chatgpt_frontend) - An llm backend
-
----
-
-## 🎯 Roadmap
-
-- 🔧 **Learning**: Enhance knowledge in **DevOps**, **Cloud Platforms**, **Microservices Architecture**, and **SignalR**.
-- 🚀 **Future Projects**: Building **Distributed Systems**, **Real-time Communication Platforms**, and **Scalable Web Applications**
-- 💬 **Open Source Contributions**: Contribute to more **Spring Boot**, **ASP.NET Core**, **SignalR**, and **React** projects.
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [**job_portal/**](https://github.com/aniket691/job_portal_frontend) | Platform connecting recruiters & job seekers | React · Spring Boot · JWT | 🟢 Active |
+| [**clinifie/**](https://github.com/aniket691/clinifie) | Car wash service booking & management app | Node.js · React · REST API | ✅ Shipped |
+| [**llm_frontend/**](https://github.com/aniketdalalml-creator/chatgpt_frontend) | Frontend interface for a custom LLM backend | React · LangChain · FastAPI | ✅ Shipped |
 
 ---
 
-### Fun Fact 🤩
+## `$ git stats --username aniket691`
 
-**I love solving problems and building software that can make a real difference in people's lives.**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aniket691&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0a0e0d&title_color=00e896&icon_color=00b874&text_color=7a9e8e&ring_color=00e896" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0a0e0d&title_color=00e896&text_color=7a9e8e" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket691&theme=dark&hide_border=true&background=0a0e0d&ring=00e896&fire=00b874&currStreakLabel=00e896&sideLabels=7a9e8e&dates=4a6658" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## `$ roadmap.next`
+
+```
+[ LEARNING ]  DevOps · Cloud Platforms · Microservices Architecture · SignalR
+[ BUILDING ]  Distributed Systems · Real-time Communication Platforms · Scalable Web Apps
+[ CONTRIB  ]  Spring Boot · ASP.NET Core · SignalR · React open-source projects
+```
+
+---
+
+## `$ connect --all`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-dalal-b54b9018a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/aniketdalal126)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aniketdalal126)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketdalal126@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00e896?style=for-the-badge&logo=vercel&logoColor=black)](https://v0-retro-hacker-portfolio-ruddy.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"I love solving problems and building software that makes a real difference."
+                                                              — Aniket Dalal
+```
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
