@@ -3,12 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,20:2d004d,45:ff00ff,70:00ffff,100:000000&text=ANIKET%20DALAL&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20⚡%20AI%20BUILDER&descAlignY=62" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=1800&pause=500&color=FF00FF&center=true&vCenter=true&width=950&lines=FULL+STACK+DEVELOPER;AI+%7C+ML+RESEARCHER;SPRING+BOOT+%7C+REACT+%7C+.NET;BUILDING+KHATARNAK+SYSTEMS+⚡;OPEN+TO+WORK+🚀" />
+font=Orbitron&weight=900&size=30&duration=1800&pause=500&color=FF00FF&center=true&vCenter=true&width=950&lines=FULL+STACK+DEVELOPER;AI+%7C+ML+RESEARCHER;SPRING+BOOT+%7C+REACT+%7C+.NET;BUILDING+KHATARNAK+SYSTEMS+⚡;OPEN+TO+WORK+🚀" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1000&pause=300&color=00FFFF&center=true&vCenter=true&width=950&lines=%3E+SYSTEM+BOOTING...;%3E+NEURAL+MODULES+LOADED;%3E+AI+ENGINE+ONLINE;%3E+STATUS%3A+DANGEROUSLY+ACTIVE+⚡" />
+font=Share+Tech+Mono&size=18&duration=1000&pause=300&color=00FFFF&center=true&vCenter=true&width=950&lines=%3E+SYSTEM+BOOTING...;%3E+NEURAL+MODULES+LOADED;%3E+AI+ENGINE+ONLINE;%3E+STATUS%3A+DANGEROUSLY+ACTIVE+⚡" />
 
 <br/><br/>
 
