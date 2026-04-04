@@ -1,100 +1,119 @@
+```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,20:1a0033,40:ff00ff,60:00ffff,80:1a0033,100:000000&height=180&section=header&reversal=true&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d0015,25:7f00ff,50:ff00ff,75:00ffff,100:0d0015&text=ANIKET%20DALAL&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20⚡%20AI%20BUILDER&descAlignY=62" />
 
 <br/>
 
-[![Name](https://readme-typing-svg.demolab.com?font=Orbitron\&weight=900\&size=55\&duration=3000\&pause=1500\&color=FF00FF\&center=true\&vCenter=true\&width=900\&height=100\&lines=ANIKET+DALAL)](https://github.com/aniket691)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=950&lines=FULL+STACK+DEVELOPER;AI+%7C+ML+BUILDER;SPRING+BOOT+%7C+REACT+%7C+.NET;BUILDING+SCALABLE+SYSTEMS+⚡)](https://git.io/typing-svg)
 
-[![Boot](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono\&weight=700\&size=18\&duration=1800\&pause=300\&color=FF00FF\&center=true\&vCenter=true\&width=900\&height=45\&lines=%3E+SYSTEM+BREACH+DETECTED...;%3E+IDENTIFYING+OPERATOR...;%3E+IDENTITY+%3A%3A+ANIKET+DALAL+%5BCONFIRMED%5D+%E2%9C%93;%3E+ACCESS+LEVEL+%3A%3A+MAXIMUM+%F0%9F%94%B4;%3E+INITIALIZING+FULL+STACK+MODULES...;%3E+Java+%E2%96%8C+.NET+%E2%96%8C+Spring+Boot+%E2%96%8C+React+%E2%96%8C+Node.js;%3E+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+LOADED+%E2%9A%A1)](https://github.com/aniket691)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1200&pause=300&color=00FFFF&center=true&vCenter=true&width=950&lines=%3E+SYSTEM+ONLINE;%3E+LOADING+RETRO+NEON+MODE;%3E+STATUS%3A+ACTIVE+⚡)](https://git.io/typing-svg)
 
-![](https://img.shields.io/badge/⚡_STATUS-ONLINE-ff00ff?style=for-the-badge\&labelColor=0d0015)
-![](https://img.shields.io/badge/📡_SECTOR-PUNE_IN-00ffff?style=for-the-badge\&labelColor=0d0015)
-![](https://img.shields.io/badge/🔓_ACCESS-OPEN_TO_WORK-00ff88?style=for-the-badge\&labelColor=0d0015)
+<br/>
+
+![](https://img.shields.io/badge/⚡_STATUS-ONLINE-ff00ff?style=for-the-badge&labelColor=0d0015)
+![](https://img.shields.io/badge/📍_PUNE_INDIA-00ffff?style=for-the-badge&labelColor=0d0015)
+![](https://img.shields.io/badge/💼_OPEN_TO_WORK-YES-00ff88?style=for-the-badge&labelColor=0d0015)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🟣 About Me
 
-```text
-╔══════════════════════════════════════════════╗
-║  > DECRYPTING PROFILE...                     ║
-╠══════════════════════════════════════════════╣
-║  NAME     ::  ANIKET DALAL                   ║
-║  ROLE     ::  Full-Stack Developer           ║
-║  LOCATION ::  Pune, India 🇮🇳                 ║
-║  CURRENT  ::  Building a Job Portal 🔭       ║
-║  LEARNING ::  DevOps · Cloud · SignalR       ║
-║  STATUS   ::  Open to opportunities ✅       ║
-║                                              ║
-║  MOTTO    ::  "Tech evolves fast.            ║
-║                I evolve even faster." ⚡      ║
-╚══════════════════════════════════════════════╝
-```
+<div align="center">
+
+### ⚡ ANIKET DALAL  
+**Full Stack Developer · AI / ML Builder**
+
+🌃 Pune, India 🇮🇳  
+🚀 Building scalable products  
+🧠 Learning AI · ML · Cloud · DevOps  
+💼 Open to opportunities  
+
+</div>
 
 ---
 
-# ⚡ Tech Stack
+# 🌈 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,ts,python,js,spring,dotnet,nodejs,react,fastapi,docker,git,mysql,mongodb&theme=dark" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,cs,python,js,spring,dotnet,nodejs,react,docker,mysql,mongodb&theme=dark" />
 
-# 🚀 Projects
-
-## 🟢 Job Portal
-
-End-to-end hiring platform connecting recruiters and job seekers with JWT authentication, role-based access control, and real-time notifications.
-
-**Tech:** React · Spring Boot · JWT · MySQL · REST API
+</div>
 
 ---
 
-## ✅ Clinifie
+# 🚀 Featured Projects
 
-Car wash booking and management system with scheduling, tracking, and service workflows.
+### 🟣 Job Portal
+A full-stack hiring platform with JWT authentication, recruiter/job seeker flows, and real-time notifications.
 
-**Tech:** Node.js · React · Express · REST API
-
----
-
-## 🤖 LLM Neural Interface
-
-Modern AI chat interface integrated with a custom LLM backend.
-
-**Tech:** React · LangChain · FastAPI · Python
+**Tech:** React · Spring Boot · JWT · MySQL
 
 ---
 
-# 📊 GitHub Stats
+### 🔵 AI Chat Interface
+A custom LLM-powered assistant built using React, FastAPI, and LangChain.
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniket691&show_icons=true&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket691&hide_border=true" />
-</p>
+**Tech:** React · Python · FastAPI · LangChain
+
+---
+
+# 📊 GitHub Glow Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniket691&show_icons=true&hide_border=true&count_private=true&bg_color=0d0015&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket691&hide_border=true&background=0d0015&ring=ff00ff&fire=00ffff&currStreakLabel=ffffff" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniket691&bg_color=0d0015&color=ff00ff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/aniket691/aniket691/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 # 🎯 Current Focus
 
-* DevOps
-* Cloud (AWS / Azure)
-* Kubernetes
-* CI/CD
-* Distributed Systems
-* Microservices
-* Real-time platforms
+- 🧠 AI / ML Research
+- ☁️ Cloud & DevOps
+- ⚙️ Microservices
+- 🚀 Scalable Backend Systems
+- 📈 Product Engineering
 
 ---
 
 # 📡 Connect
 
-* LinkedIn
-* LeetCode
-* GeeksForGeeks
-* Portfolio
-* Gmail
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-00ffff?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_LINK)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](YOUR_PORTFOLIO_LINK)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0d0015,40:00ffff,70:ff00ff,100:0d0015&section=footer&animation=twinkling" />
+
+</div>
+```
