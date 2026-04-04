@@ -38,20 +38,40 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** specializing in **J
 
 ---
 
-## 📊 GitHub Stats
+# 📟 Terminal: aniket691
 
-### My GitHub Stats 📈
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket691&show_icons=true&theme=radical&hide=prs&count_private=true" alt="aniket691's GitHub Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=flat-square&logo=terminal&logoColor=00ffff&labelColor=black" alt="Status Online">
+  <img src="https://img.shields.io/badge/LOCATION-PUNE_IN-00ffff?style=flat-square&labelColor=black" alt="Location">
 </p>
 
-### Top Languages 📝
+---
+
+### 🖥️ System Analysis
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&show_icons=true&locale=en&layout=compact&langs_count=6" alt="aniket691's top languages" />
+  <a href="https://github.com/aniket691">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket691&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aniket's GitHub Stats" />
+  </a>
+  
+  <br/><br/>
+
+  <a href="https://github.com/aniket691">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket691&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+  </a>
 </p>
 
+---
+
+### 🛠️ Tech Stack & Kernel Modules
+
+```sql
+> LOADING_SKILLS...
+[████████████████████] 100%
+
+- Languages: Python, TypeScript, Java
+- Frameworks: LangChain, React, FastAPI
+- Tools: Docker, Git, n8n, Odoo
 ---
 
 ## 💡 Projects
