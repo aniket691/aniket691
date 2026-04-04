@@ -55,7 +55,7 @@ AI / ML experimentation and scalable backend systems
 
 ---
 
-# 📊 Khatarnaak GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
